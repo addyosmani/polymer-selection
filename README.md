@@ -1,4 +1,8 @@
 polymer-selection
-=================
+====================
 
-A selection component for Polymer
+selection component for Polymer
+
+```
+bower install polymer-selection
+```
